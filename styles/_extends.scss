@@ -1,0 +1,11 @@
+@use "variables";
+
+%defaultPositionMain {
+  max-height: 757px;
+  margin: 122px 135px;
+}
+%contentCenter {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
